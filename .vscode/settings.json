@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "pin.h": "c",
+        "rt_def.h": "c",
+        "main.h": "c",
+        "hal_init.h": "c",
+        "hal_gpio.h": "c",
+        "app_uart.h": "c"
+    }
+}
